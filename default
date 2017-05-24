@@ -1,7 +1,7 @@
 <VirtualHost *:80>
         ServerAdmin tony.arianto@klola.id
         #ServerName app.klola.id
-        #ServerAlias www.example.com
+        #ServerAlias help.klola.id
         DocumentRoot /home/apps/public_html
         #DirectoryIndex index.php
         #Redirect permanent / https://app.klola.id/
